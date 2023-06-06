@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @001sharifulIslamnstu
 - 👀 I’m interested in data science, machine learning and software engineering
 - 🌱 I’m currently learning ML,deep learning,NLP,web application
-- 💞️ I’m looking to collaborate on AI/Machine learing based research 
+- 💞️ I’m looking to collaborate on AI/Machine learning based research 
 - 📫 reach me: sharifulprince97@gmail.com
 
 <!---
