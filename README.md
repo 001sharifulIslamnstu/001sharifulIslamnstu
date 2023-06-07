@@ -18,4 +18,4 @@ Skills: MACHINE LEARNING/NLP/REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=001sharifulIslamnstu&show_icons=true)  
 
-![Profile views](001sharifulIslamnstu)  
+![Profile views]([001sharifulIslamnstu](https://github.com/001sharifulIslamnstu))  
