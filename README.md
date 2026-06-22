@@ -1,652 +1,559 @@
 ````markdown
 <!--
-Elite Researcher GitHub Profile README
-Name: Md Shariful Islam / Mohammad Shariful Islam
-Google Scholar: https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en
+GitHub Profile README for Md Shariful Islam
 
-Replace only:
+Replace:
 YOUR_GITHUB_USERNAME
-YOUR_LINKEDIN_LINK
-YOUR_PORTFOLIO_LINK
-YOUR_RESEARCHGATE_LINK
-YOUR_ORCID_LINK
-YOUR_EMAIL
-YOUR_WAKATIME_USERNAME
+YOUR_LINKEDIN_URL
+YOUR_PORTFOLIO_URL
+YOUR_RESEARCHGATE_URL
+YOUR_ORCID_URL
+YOUR_INSTAGRAM_URL   optional
 -->
 
+<h1 align="center">
+  <span>
+    Hi!
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+      width="35"
+      style="vertical-align: middle;"
+    />
+    I'm Md Shariful Islam!
+  </span>
+</h1>
+
+<h3 align="center">
+  Researcher in Multimodal AI · Human-Centered Intelligence · Assistive Robotics
+</h3>
+
+<div align="center"> 
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" 
+    width="70%" 
+  /> 
+</div>
+
+<br>
+
+<div align="center"> 
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"
+  /> 
+</div>
+
 <div align="center">
 
-# Md Shariful Islam  
-### Researcher in Multimodal AI, Human-Centered Intelligence, and Assistive Robotics
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=0B7285&center=true&vCenter=true&width=920&lines=Multimodal+AI+Researcher;Human-Centered+AI;Low-Resource+NLP;Vision-Language+Learning;Medical+AI;Assistive+Robotics;Shared+Autonomy;Safe+AI;Foundation+Models;Explainable+Intelligent+Systems"
-    alt="Typing SVG"
-  />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0b7285&style=flat-square" />
-<img src="https://img.shields.io/badge/Research-Active-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Publications-17%2B-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Google%20Scholar-Indexed-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/Open--Source-Research%20Code-6741D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Future-PhD%20Candidate-B197FC?style=flat-square" />
-
-<br/><br/>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-0B7285?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Publications-364FC7?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1C7ED6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_ORCID_LINK">
-  <img src="https://img.shields.io/badge/ORCID-Researcher-2F9E44?style=for-the-badge&logo=orcid&logoColor=white" />
-</a>
-<a href="YOUR_RESEARCHGATE_LINK">
-  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00FF66&style=flat-square" />
+<img src="https://img.shields.io/badge/Research-Active-0d1117?style=flat-square&logo=googlescholar&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Publications-17%2B-0d1117?style=flat-square&logo=readthedocs&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Open%20to-PhD%20Opportunities-0d1117?style=flat-square&logo=academia&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Focus-Multimodal%20AI-0d1117?style=flat-square&logo=openai&logoColor=00FF66" />
 
 </div>
 
 ---
 
-## Research Mission
+## ├──📂 Links
 
-I am interested in developing intelligent systems that can safely understand, reason with, and assist humans through **multimodal perception, language intelligence, medical AI, explainable decision-making, and human-centered computing**.
-
-My long-term research goal is to build toward **assistive robotic intelligence** by combining multimodal learning, vision-language reasoning, low-resource NLP, biosignal-aware intent recognition, and safe human-AI collaboration.
-
----
-
-## About Me
-
-I am **Md Shariful Islam**, also listed in publications as **Mohammad Shariful Islam**, a computer science researcher from Bangladesh working across **machine learning, deep learning, natural language processing, computer vision, multimodal AI, medical AI, and human-centered intelligent systems**.
-
-I completed my **B.Sc. in Computer Science and Telecommunication Engineering** from **Noakhali Science and Technology University**. I have worked as a Research Assistant at **BUBT Research Graduate School**, a remote Research Collaborator with the **Automated Systems and Soft Computing Lab, Prince Sultan University**, a Research Assistant at **aiQuest Intelligence**, and an Undergraduate Research Assistant at **NSTU**.
-
-My publication record includes work on **multimodal visual question answering, video-based sarcasm and irony detection, Bangla toxic speech detection, Bangla summarization, retrieval-augmented generation for low-resource languages, radiology report summarization, systematic-review abstract classification, gastrointestinal screening, osteoarthritis detection, myocardial infarction forecasting, cancer classification, Bangla handwriting recognition, and stock-market forecasting**.
-
-I am currently shaping my research profile toward **assistive robotics, safe AI, shared autonomy, human-robot interaction, foundation models for robotics, multimodal intent recognition, and explainable human-centered intelligence**.
-
----
-
-## Research Interests
-
-### Robotics and Human-Centered Intelligence
+```bash
+> Connect with me:
+> google scholar -> https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en
+> portfolio      -> YOUR_PORTFOLIO_URL
+> linkedin       -> YOUR_LINKEDIN_URL
+> researchgate   -> YOUR_RESEARCHGATE_URL
+> orcid          -> YOUR_ORCID_URL
+> email          -> shariful.cse43@gmail.com
+> location       -> Dhaka, Bangladesh
+````
 
 <p>
-<img src="https://img.shields.io/badge/Assistive%20Robotics-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Shared%20Autonomy-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Human--Robot%20Interaction-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Robot%20Manipulation-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Safe%20Robotics-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Healthcare%20Robotics-0B7285?style=flat-square" />
-</p>
-
-### Artificial Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/Multimodal%20Learning-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/Foundation%20Models-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/Vision--Language%20Models-364FC7?style=flat-square" />
-</p>
-
-### NLP and Low-Resource Language Technology
-
-<p>
-<img src="https://img.shields.io/badge/Bangla%20NLP-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Low--Resource%20NLP-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Text%20Summarization-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Toxic%20Speech%20Detection-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Fake%20News%20Detection-2F9E44?style=flat-square" />
-</p>
-
-### Biosignals and Intent Understanding
-
-<p>
-<img src="https://img.shields.io/badge/EEG-6741D9?style=flat-square" />
-<img src="https://img.shields.io/badge/EMG-6741D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Eye%20Tracking-6741D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Cognitive%20State%20Modeling-6741D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Intent%20Recognition-6741D9?style=flat-square" />
+  <a href="https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF66" />
+  </a>
+  <a href="mailto:shariful.cse43@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+  </a>
+  <a href="YOUR_RESEARCHGATE_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-ResearchGate-0d1117?style=for-the-badge&logo=researchgate&logoColor=00FF66" />
+  </a>
+  <a href="YOUR_ORCID_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=00FF66" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF66" />
+  </a>
 </p>
 
 ---
 
-## Research Timeline
+## ├──📂 About Me
 
-| Period | Role / Milestone | Institution / Venue | Focus |
-|---|---|---|---|
-| 2018–2023 | B.Sc. in CSTE | Noakhali Science and Technology University | Computer science, telecommunications, ML foundations |
-| 2022–2023 | Undergraduate Research Assistant | NSTU | Financial-market forecasting using ML/DL |
-| 2023–2024 | Research Assistant | aiQuest Intelligence | Medical AI, time-series forecasting, low-resource NLP |
-| 2024 | Conference Papers | WiNLP 2024 | Bangla toxic speech detection, Bangla summarization |
-| 2024–2026 | Research Collaborator | ASCL, Prince Sultan University | ML/DL/NLP, multimodal pipelines, reproducible research |
-| 2025 | Workshop Paper | LM4UC 2025, ACL | Bangla retrieval-augmented generation |
-| 2025–2026 | Research Assistant | BUBT Research Graduate School | Reproducible ML pipelines and research publications |
-| 2026 | Award | BUBT Research Week | Top Research Assistant Award |
+```yaml
+name: Md Shariful Islam
+also_published_as: Mohammad Shariful Islam
+location: Dhaka, Bangladesh
+education: B.Sc. in Computer Science and Telecommunication Engineering
+university: Noakhali Science and Technology University
+
+current_identity:
+  - Research Assistant
+  - Multimodal AI Researcher
+  - Human-Centered AI Researcher
+  - Future PhD Candidate
+
+research_focus:
+  - Multimodal AI
+  - Low-Resource NLP
+  - Vision-Language Learning
+  - Medical AI
+  - Explainable AI
+  - Human-Centered Intelligence
+  - Assistive Robotics
+  - Shared Autonomy
+  - Safe AI
+
+technical_strengths:
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - Computer Vision
+  - Reproducible ML Pipelines
+  - Research Codebases
+  - Scientific Writing
+```
+
+I am a computer science researcher working at the intersection of **machine learning, deep learning, NLP, computer vision, multimodal AI, medical AI, and human-centered intelligent systems**.
+
+My research background includes **multimodal visual question answering, Bangla NLP, retrieval-augmented generation, toxic speech detection, medical image analysis, radiology report summarization, systematic-review abstract classification, and clinical time-series forecasting**.
+
+My long-term research direction is to build **safe, explainable, and human-centered AI systems** that can support future applications in **assistive robotics, healthcare robotics, shared autonomy, and intelligent human-machine collaboration**.
 
 ---
 
-## Publications
+## ├──📂 Research Identity
 
-> Full publication list: [Google Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
+```bash
+> primary identity:
+> Researcher in Multimodal AI and Human-Centered Intelligence
+
+> emerging direction:
+> Assistive Robotics + Safe AI + Shared Autonomy
+
+> research mission:
+> Build intelligent systems that can understand, reason with,
+> and assist humans through multimodal perception, language,
+> clinical intelligence, and explainable decision-making.
+```
+
+<p>
+  <img src="https://img.shields.io/badge/Multimodal%20AI-0d1117?style=for-the-badge&logo=openai&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Human--Centered%20AI-0d1117?style=for-the-badge&logo=semanticweb&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Low--Resource%20NLP-0d1117?style=for-the-badge&logo=googledocs&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Medical%20AI-0d1117?style=for-the-badge&logo=meditech&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Assistive%20Robotics-0d1117?style=for-the-badge&logo=ros&logoColor=00FF66" />
+</p>
 
 ---
 
-### Selected Journal Articles
+## ├──📂 Research Interests
 
-<table>
-<tr>
-<td width="50%">
+```yaml
+robotics:
+  - Assistive Robotics
+  - Shared Autonomy
+  - Human-Robot Interaction
+  - Safe Robot Decision-Making
+  - Healthcare Robotics
 
-### SarcasmSense  
-**A Novel Multitask Learning Framework for Vlog-Based Political Sarcasm and Irony Detection**
+artificial_intelligence:
+  - Machine Learning
+  - Deep Learning
+  - Multimodal Learning
+  - Foundation Models
+  - Vision-Language Models
+  - Large Language Models
 
-**Authors:** Md. Shariful Islam, Md. Jalal Uddin Chowdhury, Md. Misbah Uddin Tareq, Tufayel Ahmed, Md. Aktarujjaman, Md. S. Uddin, Samah Alshathri, A. T. Azar, Walid El-Shafai  
-**Venue:** IEEE Access  
-**Year:** 2026  
-**DOI:** `10.1109/ACCESS.2026.3674402`  
+nlp:
+  - Bangla NLP
+  - Low-Resource NLP
+  - Retrieval-Augmented Generation
+  - Text Summarization
+  - Toxic Speech Detection
+  - Fake News Detection
 
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
+healthcare_ai:
+  - Medical Image Classification
+  - Radiology Report Summarization
+  - Clinical Time-Series Forecasting
+  - Disease Screening
+  - Decision Support Systems
 
-</td>
-<td width="50%">
+systems:
+  - Explainable AI
+  - Responsible AI
+  - Reproducible ML Pipelines
+  - Human-Centered Computing
+```
 
-### MRAN-VQA  
-**Multimodal Recursive Attention Network for Visual Question Answering**
+---
 
-**Authors:** Md. Shariful Islam, Abu Tareq Rony, Md. Murad Hossain Sarker, Md. Khairul Bashar Bhuiyan, M. Saib, Md. Aktarujjaman, Md. S. Uddin, A. D. Algarni, A. T. Azar, Walid El-Shafai  
-**Venue:** Engineering Science and Technology, an International Journal  
-**Year:** 2025  
-**DOI:** `10.1016/j.jestch.2024.102232`  
+## ├──📂 Research Experience
 
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
+```bash
+> BUBT Research Graduate School
+> role      -> Research Assistant
+> period    -> Apr 2025 - Jun 2026
+> focus     -> Reproducible ML pipelines, model training, evaluation, research publications
 
-</td>
-</tr>
+> Automated Systems and Soft Computing Lab, Prince Sultan University
+> role      -> Research Collaborator
+> period    -> Jul 2024 - Jun 2026
+> focus     -> ML/DL/NLP, multimodal pipelines, reproducible research codebases
 
-<tr>
-<td width="50%">
+> aiQuest Intelligence
+> role      -> Research Assistant
+> period    -> Jul 2023 - May 2024
+> focus     -> Medical time-series forecasting, medical image classification, Bangla NLP
 
-### Zero-BertXGB  
-**An Empirical Technique for Abstract Classification in Systematic Reviews**
+> NSTU Department of CSTE
+> role      -> Undergraduate Research Assistant
+> period    -> May 2022 - Apr 2023
+> focus     -> Financial-market time-series forecasting using ML/DL
+```
 
-**Authors:** Md. Shariful Islam, Abu Tareq Rony, Md. Rasel Hossain, Samah Alshathri, Walid El-Shafai  
-**Venue:** IEEE Access  
-**Year:** 2025  
-**DOI:** `10.1109/ACCESS.2025.3531778`  
+---
 
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
+## ├──📂 Selected Publications
 
-</td>
-<td width="50%">
+> Full publication list:
+> [Google Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
 
-### SumGPT  
-**A Multimodal Framework for Radiology Report Summarization to Improve Clinical Performance**
+```bash
+> journal articles:
+```
 
-**Authors:** Tipu Sultan, Abu Tareq Rony, Md. Shariful Islam, Samah Alshathri, Walid El-Shafai  
-**Venue:** IEEE Access  
-**Year:** 2025  
-**DOI:** `10.1109/ACCESS.2025.3528335`  
+| Year | Title                                                                                                   | Venue                                 |
+| ---- | ------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 2026 | SarcasmSense: A Novel Multitask Learning Framework for Vlog-Based Political Sarcasm and Irony Detection | IEEE Access                           |
+| 2025 | MRAN-VQA: Multimodal Recursive Attention Network for Visual Question Answering                          | Engineering Science and Technology    |
+| 2025 | Zero-BertXGB: Abstract Classification in Systematic Reviews                                             | IEEE Access                           |
+| 2025 | SumGPT: Multimodal Radiology Report Summarization                                                       | IEEE Access                           |
+| 2024 | GastroVRG: Early Screening in Gastrointestinal Health                                                   | Intelligent Systems with Applications |
+| 2024 | CDK: Transfer Feature Technique for Osteoarthritis Detection                                            | Journal of Pathology Informatics      |
+| 2024 | Myocardial Infarction Forecasting with Time-Series Patient Data                                         | Journal of Medical Systems            |
+| 2024 | Cancer Type and Subtype Identification                                                                  | IEEE Access                           |
+| 2024 | BNVGLENET: Bangla Handwriting Character Recognition                                                     | Natural Language Processing Journal   |
+| 2024 | Global Stock Market Forecasting and External Factors                                                    | Iran Journal of Computer Science      |
 
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
+```bash
+> conference / workshop papers:
+```
 
-</td>
-</tr>
+| Year | Title                                                         | Venue      |
+| ---- | ------------------------------------------------------------- | ---------- |
+| 2025 | TraSe: Retrieval-Augmented Generation in Bangla               | LM4UC, ACL |
+| 2024 | BanVATLLM and BanTSS: Bangla Toxic Speech Detection in Videos | WiNLP      |
+| 2024 | Evaluating Large Language Models for Summarizing Bangla Texts | WiNLP      |
 
-<tr>
-<td width="50%">
+---
 
-### GastroVRG  
-**Enhancing Early Screening in Gastrointestinal Health via Advanced Transfer Features**
+## ├──📂 Featured Research Projects
 
-**Authors:** Md. Shariful Islam, Abu Tareq Rony, Tipu Sultan  
-**Venue:** Intelligent Systems with Applications  
-**Year:** 2024  
-**DOI:** `10.1016/j.iswa.2024.200399`  
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>MRAN-VQA</h3>
+      <p><strong>Multimodal Recursive Attention Network for Visual Question Answering</strong></p>
+      <p>
+        Research on vision-language reasoning using multimodal recursive attention for visual question answering.
+      </p>
+      <p>
+        <a href="#">Paper</a> · 
+        <a href="#">Code</a> · 
+        <a href="#">Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>TraSe Bangla RAG</h3>
+      <p><strong>Retrieval-Augmented Generation for Low-Resource Bangla NLP</strong></p>
+      <p>
+        Research on improving retrieval and generation for underserved language communities.
+      </p>
+      <p>
+        <a href="#">Paper</a> · 
+        <a href="#">Code</a> · 
+        <a href="#">Dataset</a>
+      </p>
+    </td>
+  </tr>
 
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
+  <tr>
+    <td width="50%">
+      <h3>SarcasmSense</h3>
+      <p><strong>Political Sarcasm and Irony Detection in Vlogs</strong></p>
+      <p>
+        Multitask learning framework for detecting sarcasm and irony using multimodal political video data.
+      </p>
+      <p>
+        <a href="#">Paper</a> · 
+        <a href="#">Code</a> · 
+        <a href="#">Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Medical AI Screening</h3>
+      <p><strong>Transfer Learning for Clinical Screening and Diagnosis</strong></p>
+      <p>
+        Medical AI research involving gastrointestinal screening, osteoarthritis detection, cancer classification, and clinical forecasting.
+      </p>
+      <p>
+        <a href="#">Papers</a> · 
+        <a href="#">Code</a> · 
+        <a href="#">Demo</a>
+      </p>
+    </td>
+  </tr>
 
-</td>
-<td width="50%">
-
-### CDK  
-**A High-Performance Transfer Feature Technique for Early Detection of Osteoarthritis**
-
-**Authors:** Md. Shariful Islam, Abu Tareq Rony  
-**Venue:** Journal of Pathology Informatics  
-**Year:** 2024  
-**DOI:** `10.1016/j.jpi.2024.100382`  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### MemesViTa  
-**A Novel Multimodal Fusion Technique for Troll Memes Identification**
-
-**Authors:** Tipu Sultan, Abu Tareq Rony, Md. Shariful Islam, Samah Alshathri, Walid El-Shafai  
-**Year:** 2024  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-<td width="50%">
-
-### BdSentiLLM  
-**A Novel LLM Approach to Sentiment Analysis of Product Reviews**
-
-**Authors:** Atia Shahnaz Ipa, Priyo Nath Roy, Abu Tareq Rony, Md. Shariful Islam, Muhammad Syafrudin  
-**Year:** 2024  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Cancer Type and Subtype Identification  
-**A Novel Deep Learning Approach for Accurate Cancer Type and Subtype Identification**
-
-**Authors:** Jabed Omor Bappi, Abu Tareq Rony, Md. Shariful Islam, Samah Alshathri, Walid El-Shafai  
-**Venue:** IEEE Access  
-**Year:** 2024  
-**DOI:** `10.1109/ACCESS.2024.3422313`  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-<td width="50%">
-
-### Myocardial Infarction Forecasting  
-**A Novel Deep Learning Approach for Forecasting Myocardial Infarction Occurrences with Time Series Patient Data**
-
-**Authors:** Mohammad Saiduzzaman Sayed, Abu Tareq Rony, Md. Shariful Islam, et al.  
-**Venue:** Journal of Medical Systems  
-**Year:** 2024  
-**DOI:** `10.1007/s10916-024-02076-w`  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### BNVGLENET  
-**Hypercomplex Bangla Handwriting Character Recognition with Hierarchical Class Expansion Using CNNs**
-
-**Authors:** Jabed Omor Bappi, Abu Tareq Rony, Md. Shariful Islam  
-**Venue:** Natural Language Processing Journal  
-**Year:** 2024  
-**DOI:** `10.1016/j.nlp.2024.100068`  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-<td width="50%">
-
-### Global Stock Market Forecasting  
-**Navigating the Global Stock Market: Correlation, Prediction, and the Influence of External Factors**
-
-**Authors:** Md. Shariful Islam, Abu Tareq Rony  
-**Venue:** Iran Journal of Computer Science  
-**Year:** 2024  
-**DOI:** `10.1007/s42044-024-00177-w`  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en) · [BibTeX](#)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <h3>Nirbhoy</h3>
+      <p><strong>Human-Centered AI Platform for Safety and Reporting</strong></p>
+      <p>
+        A web platform for technology-facilitated violence response with survivor reporting, AI-based sensitivity scoring, PDF generation, dashboard, audit workflow, SLA tracking, and tamper-evident logs.
+      </p>
+      <p>
+        <a href="#">Repository</a> · 
+        <a href="#">Demo</a> · 
+        <a href="#">Documentation</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Assistive Robotics Foundation</h3>
+      <p><strong>Roadmap for Safe Human-Centered Robot Intelligence</strong></p>
+      <p>
+        A developing research direction connecting multimodal AI, intent recognition, shared autonomy, and safe assistive manipulation.
+      </p>
+      <p>
+        <a href="#">Roadmap</a> · 
+        <a href="#">Code</a> · 
+        <a href="#">Demo</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### Conference and Workshop Papers
+## ├──📂 Technical Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### BanVATLLM and BanTSS  
-**A Multimodal Framework and Dataset for Detecting Toxic Speech in Bangla and Bangla-English Videos**
-
-**Authors:** Md. Shariful Islam, Abu Tareq Rony  
-**Venue:** WiNLP 2024  
-**Year:** 2024  
-
-[PDF](#) · [Dataset](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
-
-</td>
-<td width="50%">
-
-### Bangla LLM Summarization  
-**Evaluating Large Language Models for Summarizing Bangla Texts**
-
-**Authors:** Abu Tareq Rony, Md. Shariful Islam  
-**Venue:** WiNLP 2024  
-**Year:** 2024  
-
-[PDF](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### TraSe  
-**Empowering Low-Resource Languages: TraSe Architecture for Enhanced Retrieval-Augmented Generation in Bangla**
-
-**Authors:** Atia Shahnaz Ipa, Abu Tareq Rony, Md. Shariful Islam  
-**Venue:** LM4UC 2025, ACL  
-**Year:** 2025  
-**DOI:** `10.18653/v1/2025.lm4uc-1.2`  
-
-[PDF](#) · [Code](#) · [ACL Anthology](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
-
-</td>
-<td width="50%">
-
-### CRPA Dataset  
-**Abstract Screening in Systematic Reviews**
-
-**Authors:** Md. Shariful Islam, Abu Tareq Rony  
-**Year:** 2025  
-
-[PDF](#) · [Dataset](#) · [Code](#) · [Scholar](https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en)
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Research Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Multimodal VQA with Recursive Attention
-
-**Problem:** Visual question answering requires joint reasoning over images and natural language.  
-**Methodology:** Multimodal recursive attention and hierarchical fusion.  
-**Research Direction:** Vision-language models, explainable multimodal reasoning, foundation models.  
-
-**Repository:** [mran-vqa](#)  
-**Paper:** [MRAN-VQA](#)  
-**Demo:** [Coming Soon](#)
-
-</td>
-<td width="50%">
-
-### Bangla RAG for Low-Resource Language Intelligence
-
-**Problem:** Bangla lacks strong open resources for retrieval-augmented generation.  
-**Methodology:** Bangla document retrieval, question-answer generation, and LLM-based response synthesis.  
-**Research Direction:** Low-resource NLP, RAG, multilingual LLMs.  
-
-**Repository:** [bangla-rag-trase](#)  
-**Paper:** [TraSe](#)  
-**Demo:** [Coming Soon](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Multimodal Sarcasm and Irony Detection
-
-**Problem:** Sarcasm in political videos depends on language, tone, facial expressions, and context.  
-**Methodology:** Multitask learning with text, audio, and video cues.  
-**Research Direction:** Multimodal affective computing, media understanding, safe AI moderation.  
-
-**Repository:** [sarcasmsense](#)  
-**Paper:** [IEEE Access](#)  
-**Demo:** [Coming Soon](#)
-
-</td>
-<td width="50%">
-
-### Medical AI Screening and Summarization
-
-**Problem:** Clinical screening and reporting require accurate, efficient, and interpretable AI models.  
-**Methodology:** Transfer learning, deep feature extraction, multimodal summarization, time-series forecasting.  
-**Research Direction:** Healthcare AI, medical image analysis, clinical decision support.  
-
-**Repository:** [medical-ai-screening](#)  
-**Papers:** [GastroVRG](#) · [CDK](#) · [SumGPT](#)  
-**Demo:** [Coming Soon](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Nirbhoy: Human-Centered Safety Platform
-
-**Problem:** Survivors of technology-facilitated violence need safe, structured, and accountable reporting systems.  
-**Methodology:** Reporting wizard, evidence upload, AI sensitivity scoring, PDF report generation, authority dashboard, audit workflow, SLA tracking, and tamper-evident logs.  
-**Research Direction:** Human-centered AI, responsible AI, social-impact computing.  
-
-**Repository:** [nirbhoy](#)  
-**Demo:** [Coming Soon](#)  
-**Documentation:** [System Design](#)
-
-</td>
-<td width="50%">
-
-### Assistive Robotics Foundation
-
-**Problem:** Assistive robots must understand human intent, uncertainty, and safety constraints before acting.  
-**Methodology:** Planned integration of multimodal perception, intent recognition, explainability, and shared autonomy.  
-**Research Direction:** Assistive robotics, HRI, safe robot decision-making.  
-
-**Repository:** [assistive-robotics-foundation](#)  
-**Roadmap:** [Coming Soon](#)  
-**Demo:** [Coming Soon](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Stack
-
-### Languages and Core Tools
+```bash
+> languages:
+```
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-R-0d1117?style=for-the-badge&logo=r&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-MATLAB-0d1117?style=for-the-badge&logo=matrix&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF66" />
 </p>
 
-### AI and Deep Learning
+```bash
+> ai / ml / dl:
+```
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-364FC7?style=flat-square" />
+  <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=00FF66" />
 </p>
 
-### Computer Vision and Multimodal AI
+```bash
+> computer vision / multimodal:
+```
 
 <p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/VQA-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/CLIP-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/SAM-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/Multimodal%20Fusion-6741D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Vision--Language%20Models-0d1117?style=for-the-badge&logo=openai&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-VQA-0d1117?style=for-the-badge&logo=semanticweb&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Multimodal%20Fusion-0d1117?style=for-the-badge&logo=databricks&logoColor=00FF66" />
 </p>
 
-### NLP and LLM Systems
+```bash
+> nlp / llm:
+```
 
 <p>
-<img src="https://img.shields.io/badge/NLP-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/LLMs-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-2F9E44?style=flat-square" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square" />
-<img src="https://img.shields.io/badge/Bangla%20NLP-6741D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-NLP-0d1117?style=for-the-badge&logo=googledocs&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-RAG-0d1117?style=for-the-badge&logo=readthedocs&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-spaCy-0d1117?style=for-the-badge&logo=spacy&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-NLTK-0d1117?style=for-the-badge&logo=python&logoColor=00FF66" />
 </p>
 
-### Robotics Roadmap
+```bash
+> robotics roadmap:
+```
 
 <p>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
-<img src="https://img.shields.io/badge/MoveIt-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Gazebo-0B7285?style=flat-square" />
-<img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/MuJoCo-364FC7?style=flat-square" />
-<img src="https://img.shields.io/badge/PyBullet-6741D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-ROS2-0d1117?style=for-the-badge&logo=ros&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-MoveIt-0d1117?style=for-the-badge&logo=ros&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Gazebo-0d1117?style=for-the-badge&logo=ros&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Isaac%20Sim-0d1117?style=for-the-badge&logo=nvidia&logoColor=00FF66" />
 </p>
 
-### Infrastructure and Development
+```bash
+> development:
+```
 
 <p>
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/-LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=00FF66" />
 </p>
 
 ---
 
-## Research Metrics Dashboard
+## ├──📂 Activity
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&title=Research%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" 
+width="100%"
+/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+/>
 
-<br/>
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<br>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&margin-w=8&row=1" />
-
-<br/>
-
-<!-- Optional: requires WakaTime setup -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true" />
+<img 
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" 
+/>
 
 </div>
 
 ---
 
-## Academic Journey
+## ├──📂 Academic Timeline
 
-### Education
-
-**B.Sc. in Computer Science and Telecommunication Engineering**  
-Noakhali Science and Technology University, Bangladesh  
-2018–2023
-
----
-
-### Research Experience
-
-**Research Assistant**  
-BUBT Research Graduate School, Bangladesh University of Business and Technology  
-2025–2026  
-- Built reproducible end-to-end ML pipelines for ingestion, preprocessing, training, and evaluation.
-- Developed configurable experiment settings for baseline and deep learning models.
-
-**Research Collaborator**  
-Automated Systems and Soft Computing Lab, Prince Sultan University  
-2024–2026  
-- Collaborated on ML, DL, NLP, multimodal pipeline development, reproducible codebases, and research publications.
-
-**Research Assistant**  
-aiQuest Intelligence  
-2023–2024  
-- Conducted research on medical time-series forecasting, medical image classification, heart disease prediction, and Bangla NLP.
-
-**Undergraduate Research Assistant**  
-NSTU  
-2022–2023  
-- Worked on financial-market time-series forecasting using ML/DL techniques.
+```bash
+2018 - 2023  -> B.Sc. in Computer Science and Telecommunication Engineering, NSTU
+2022 - 2023  -> Undergraduate Research Assistant, NSTU
+2023 - 2024  -> Research Assistant, aiQuest Intelligence
+2024 - 2026  -> Research Collaborator, ASCL, Prince Sultan University
+2025 - 2026  -> Research Assistant, BUBT Research Graduate School
+2026         -> Top Research Assistant Award, BUBT Research Week
+```
 
 ---
 
-## Awards and Honors
+## ├──📂 Current Research
 
-- **Top Research Assistant Award**, BUBT Research Graduate School, BUBT Research Week 2026  
-- Solved **700+ programming problems** across online judge platforms  
-- Completed certifications in Data Science, Natural Language Processing, Deep Learning, and Machine Learning for Materials  
-
----
-
-## Current Research
-
-```text
+```bash
 [x] Multimodal learning for vision-language reasoning
 [x] Low-resource Bangla NLP and retrieval-augmented generation
 [x] Medical AI for screening, summarization, and forecasting
 [x] Reproducible ML/DL research pipelines
 [x] Human-centered AI safety platforms
 [ ] Multimodal intent recognition
-[ ] EEG + EMG + eye-tracking fusion
 [ ] Shared autonomy for assistive robotics
 [ ] Foundation models for robotics
 [ ] Explainable robot decision-making
 [ ] Safe assistive manipulation
-````
+```
 
 ---
 
-## Open Collaboration
+## ├──📂 Open Collaboration
 
-I am open to research collaboration in:
+```yaml
+looking_to_collaborate_on:
+  - Multimodal AI
+  - Vision-Language Models
+  - Low-Resource NLP
+  - Bangla NLP
+  - Retrieval-Augmented Generation
+  - Healthcare AI
+  - Explainable AI
+  - Assistive Robotics
+  - Human-Robot Interaction
+  - Shared Autonomy
+  - Foundation Models for Robotics
+  - Human-Centered Intelligent Systems
+```
 
-* Multimodal AI
-* Vision-language learning
-* Low-resource NLP
-* Bangla NLP and RAG
-* Healthcare AI
-* Assistive robotics
-* Human-robot interaction
-* Shared autonomy
-* Safe and explainable AI
-* Foundation models for robotics
-* Human-centered intelligent systems
-* Open-source AI and robotics benchmarks
+---
 
+## └──📂 Portfolio
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=YOUR_PORTFOLIO_URL" 
+        alt="Portfolio QR Code" 
+        width="260" 
+      />
+    </td>
+
+```
+<td align="center" width="34%">
+  <p><strong>Access my research portfolio</strong></p>
+  <p>
+    <a href="YOUR_PORTFOLIO_URL" target="_blank">
+      YOUR_PORTFOLIO_URL
+    </a>
+  </p>
+  <p>
+    <a href="https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en" target="_blank">
+      Google Scholar Publications
+    </a>
+  </p>
+</td>
+
+<td align="center" width="33%">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" 
+    width="260" 
+    alt="Research GIF" 
+  />
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+```bash
+> Advancing human-centered intelligence through multimodal AI,
+> medical AI, low-resource NLP, and safe assistive robotics.
+```
+
+</div>
+
+<div align="center"> 
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"
+  /> 
+</div>
+```
