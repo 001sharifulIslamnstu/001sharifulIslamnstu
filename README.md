@@ -1,4 +1,93 @@
+<!--
+GitHub Profile README for Md Shariful Islam
+GitHub username: 001sharifulIslamnstu
+Google Scholar: https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en
+LinkedIn: https://www.linkedin.com/in/md-shariful-islam-9389a8181/
+Portfolio: https://001sharifulislamnstu.github.io/portfolio/
+ORCID: https://orcid.org/0009-0007-8442-1425
+Email: shariful.cse43@gmail.com
+-->
 
+<h1 align="center">
+  <span>
+    Hi!
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+      width="35"
+      style="vertical-align: middle;"
+    />
+    I'm Md Shariful Islam!
+  </span>
+</h1>
+
+<h3 align="center">
+  Researcher in Multimodal AI · Human-Centered Intelligence · Assistive Robotics
+</h3>
+
+<div align="center"> 
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" 
+    width="70%" 
+    alt="Research animation"
+  /> 
+</div>
+
+<br>
+
+<div align="center"> 
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"
+    alt="Header wave"
+  /> 
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=001sharifulIslamnstu&label=Profile%20Views&color=00FF66&style=flat-square" />
+<img src="https://img.shields.io/badge/Research-Active-0d1117?style=flat-square&logo=googlescholar&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Publications-17%2B-0d1117?style=flat-square&logo=readthedocs&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Open%20to-PhD%20Opportunities-0d1117?style=flat-square&logo=academia&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Focus-Multimodal%20AI-0d1117?style=flat-square&logo=openai&logoColor=00FF66" />
+
+</div>
+
+---
+
+## ├──📂 Links
+
+```bash
+> Connect with me:
+> google scholar -> https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en
+> portfolio      -> https://001sharifulislamnstu.github.io/portfolio/
+> linkedin       -> https://www.linkedin.com/in/md-shariful-islam-9389a8181/
+> orcid          -> https://orcid.org/0009-0007-8442-1425
+> github         -> https://github.com/001sharifulIslamnstu
+> email          -> shariful.cse43@gmail.com
+> location       -> Dhaka, Bangladesh
+```
+
+<p>
+  <a href="https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Scholar-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF66" />
+  </a>
+  <a href="mailto:shariful.cse43@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-shariful-islam-9389a8181/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" />
+  </a>
+  <a href="https://orcid.org/0009-0007-8442-1425" target="_blank">
+    <img src="https://img.shields.io/badge/-ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=00FF66" />
+  </a>
+  <a href="https://github.com/001sharifulIslamnstu" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF66" />
+  </a>
+  <a href="https://001sharifulislamnstu.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00FF66" />
+  </a>
+</p>
+
+---
 
 ## ├──📂 About Me
 
@@ -8,6 +97,9 @@ also_published_as: Mohammad Shariful Islam
 location: Dhaka, Bangladesh
 education: B.Sc. in Computer Science and Telecommunication Engineering
 university: Noakhali Science and Technology University
+github: 001sharifulIslamnstu
+google_scholar: https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en
+orcid: 0009-0007-8442-1425
 
 current_identity:
   - Research Assistant
@@ -36,7 +128,7 @@ technical_strengths:
   - Scientific Writing
 ```
 
-I am a computer science researcher working at the intersection of **machine learning, deep learning, NLP, computer vision, multimodal AI, medical AI, and human-centered intelligent systems**.
+I am a computer science researcher working at the intersection of **machine learning, deep learning, natural language processing, computer vision, multimodal AI, medical AI, and human-centered intelligent systems**.
 
 My research background includes **multimodal visual question answering, Bangla NLP, retrieval-augmented generation, toxic speech detection, medical image analysis, radiology report summarization, systematic-review abstract classification, and clinical time-series forecasting**.
 
@@ -335,7 +427,7 @@ systems:
 ## ├──📂 Activity
 
 <img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&title=Research%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=001sharifulIslamnstu&theme=github-compact&hide_border=true&title=Research%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" 
 width="100%"
 />
 
@@ -343,18 +435,21 @@ width="100%"
 
 <img 
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+src="https://github-readme-stats.vercel.app/api?username=001sharifulIslamnstu&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF66&icon_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+alt="GitHub Stats"
 />
 
 <img 
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=001sharifulIslamnstu&layout=compact&theme=github_dark&hide_border=true&title_color=00FF66&text_color=ffffff&bg_color=0d1117" 
+alt="Top Languages"
 />
 
 <br>
 
 <img 
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" 
+src="https://streak-stats.demolab.com?user=001sharifulIslamnstu&theme=dark&hide_border=true&background=0d1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" 
+alt="GitHub Streak"
 />
 
 </div>
@@ -370,6 +465,22 @@ src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_
 2024 - 2026  -> Research Collaborator, ASCL, Prince Sultan University
 2025 - 2026  -> Research Assistant, BUBT Research Graduate School
 2026         -> Top Research Assistant Award, BUBT Research Week
+```
+
+---
+
+## ├──📂 Awards & Certifications
+
+```yaml
+awards:
+  - Top Research Assistant Award, BUBT Research Graduate School, BUBT Research Week 2026
+  - Solved 700+ programming problems across online judge platforms
+
+certifications:
+  - Data Science Capstone
+  - Natural Language Processing Specialization
+  - Deep Learning Specialization
+  - Machine Learning for Materials Boot Camp, University of Wisconsin-Madison
 ```
 
 ---
@@ -411,13 +522,53 @@ looking_to_collaborate_on:
 
 ---
 
+## ├──📂 Recommended Repository Architecture
+
+```bash
+research-lab/
+├── multimodal-ai/
+│   ├── mran-vqa/
+│   ├── sarcasmsense/
+│   ├── memesvita/
+│   └── radiology-report-summarization/
+│
+├── low-resource-nlp/
+│   ├── bangla-rag-trase/
+│   ├── bangla-llm-summarization/
+│   ├── banvatllm-bantss/
+│   └── bangla-sentiment-llm/
+│
+├── medical-ai/
+│   ├── gastrointestinal-screening/
+│   ├── osteoarthritis-detection/
+│   ├── myocardial-infarction-forecasting/
+│   └── cancer-classification/
+│
+├── human-centered-ai/
+│   ├── nirbhoy-platform/
+│   ├── explainable-ai-healthcare/
+│   └── safe-ai-benchmarks/
+│
+├── assistive-robotics/
+│   ├── shared-autonomy-foundation/
+│   ├── multimodal-intent-recognition/
+│   └── safe-robot-decision-making/
+│
+└── templates/
+    ├── reproducible-ml-pipeline/
+    ├── paper-code-template/
+    └── experiment-tracking-template/
+```
+
+---
+
 ## └──📂 Portfolio
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
       <img 
-        src="https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=YOUR_PORTFOLIO_URL" 
+        src="https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=https://001sharifulislamnstu.github.io/portfolio/" 
         alt="Portfolio QR Code" 
         width="260" 
       />
@@ -427,13 +578,18 @@ looking_to_collaborate_on:
 <td align="center" width="34%">
   <p><strong>Access my research portfolio</strong></p>
   <p>
-    <a href="YOUR_PORTFOLIO_URL" target="_blank">
-      YOUR_PORTFOLIO_URL
+    <a href="https://001sharifulislamnstu.github.io/portfolio/" target="_blank">
+      https://001sharifulislamnstu.github.io/portfolio/
     </a>
   </p>
   <p>
     <a href="https://scholar.google.com/citations?user=-Rut6DAAAAAJ&hl=en" target="_blank">
       Google Scholar Publications
+    </a>
+  </p>
+  <p>
+    <a href="https://orcid.org/0009-0007-8442-1425" target="_blank">
+      ORCID: 0009-0007-8442-1425
     </a>
   </p>
 </td>
@@ -464,6 +620,6 @@ looking_to_collaborate_on:
 <div align="center"> 
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"
+    alt="Footer wave"
   /> 
 </div>
-```
