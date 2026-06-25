@@ -574,7 +574,7 @@ research-lab/
       />
     </td>
 
-```
+
 <td align="center" width="34%">
   <p><strong>Access my research portfolio</strong></p>
   <p>
@@ -601,7 +601,7 @@ research-lab/
     alt="Research GIF" 
   />
 </td>
-```
+
 
   </tr>
 </table>
