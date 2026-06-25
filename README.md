@@ -26,7 +26,7 @@ Email: shariful.cse43@gmail.com
 
 <div align="center"> 
   <img 
-    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4cWI5a2g3Y3J4YzIwMGpqcnNuNnNsbXdnc3JlZGpiY3Fqd2lzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Oz1ClNcBI5g0287D0u/giphy.gif" 
     width="70%" 
     alt="Research animation"
   /> 
