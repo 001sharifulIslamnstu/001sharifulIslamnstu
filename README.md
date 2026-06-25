@@ -208,7 +208,7 @@ systems:
 ```bash
 > BUBT Research Graduate School
 > role      -> Research Assistant
-> period    -> Apr 2025 - Jun 2026
+> period    -> Apr 2025 - Present
 > focus     -> Reproducible ML pipelines, model training, evaluation, research publications
 
 > Automated Systems and Soft Computing Lab, Prince Sultan University
