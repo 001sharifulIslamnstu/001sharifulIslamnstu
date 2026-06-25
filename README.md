@@ -520,47 +520,7 @@ looking_to_collaborate_on:
   - Human-Centered Intelligent Systems
 ```
 
----
 
-## ├──📂 Recommended Repository Architecture
-
-```bash
-research-lab/
-├── multimodal-ai/
-│   ├── mran-vqa/
-│   ├── sarcasmsense/
-│   ├── memesvita/
-│   └── radiology-report-summarization/
-│
-├── low-resource-nlp/
-│   ├── bangla-rag-trase/
-│   ├── bangla-llm-summarization/
-│   ├── banvatllm-bantss/
-│   └── bangla-sentiment-llm/
-│
-├── medical-ai/
-│   ├── gastrointestinal-screening/
-│   ├── osteoarthritis-detection/
-│   ├── myocardial-infarction-forecasting/
-│   └── cancer-classification/
-│
-├── human-centered-ai/
-│   ├── nirbhoy-platform/
-│   ├── explainable-ai-healthcare/
-│   └── safe-ai-benchmarks/
-│
-├── assistive-robotics/
-│   ├── shared-autonomy-foundation/
-│   ├── multimodal-intent-recognition/
-│   └── safe-robot-decision-making/
-│
-└── templates/
-    ├── reproducible-ml-pipeline/
-    ├── paper-code-template/
-    └── experiment-tracking-template/
-```
-
----
 
 ## └──📂 Portfolio
 
